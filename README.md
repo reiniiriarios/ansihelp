@@ -3,9 +3,10 @@ Bash script help file for using ansi codes (primarily colors)
 
 ## Installation
 
-`cp ansihelp.sh /usr/sbin/ansihelp`
+`chmod +x ansihelp.sh`
+`mv ansihelp.sh /usr/sbin/ansihelp`
 
-(Or wherever you like)
+(Or move wherever you like)
 
 ## Usage
 
